@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "08E40575AE1049C3FD1EDFDE02CDAFFF",
+  "keywordClasses": [
+    {
+      "name": "register.register_invalid_email",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

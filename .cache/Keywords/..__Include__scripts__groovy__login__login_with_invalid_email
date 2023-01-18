@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5FDB3CABE9BB804E2B49F3E252D1991C",
+  "keywordClasses": [
+    {
+      "name": "login.login_with_invalid_email",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

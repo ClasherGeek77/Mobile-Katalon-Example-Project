@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>assert_error_email_register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8442201-784b-444b-82ce-710bbd3ea893</testCaseGuid>
+</TestCaseEntity>
